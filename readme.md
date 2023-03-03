@@ -5,12 +5,16 @@
 <p>/api/products?category=gaming => GIVES DATA WITH CATEGORY GAMING</p>
 <p>/api/products?category=gaming&brand=Sony => GIVES DATA WITH CATEGORY GAMING AND BRAND SONY</p>
 
-Deployed Link: https://ill-puce-bunny-cape.cyclic.app/api/products
+
 <!-- LOGIN AND REGISTER -->
 
 
 <p>/api/users/register => FOR REGISTERING NEW USER></p>
 <p>/api/users/login => FOR USER LOGIN</p>
+
+<!-- Deployed LINk -->
+Link: https://ill-puce-bunny-cape.cyclic.app/api/products
+
 
 <h2>CATEGORY</h2>
 <p>photography</p>
