@@ -13,7 +13,7 @@
 <p>/api/users/login => FOR USER LOGIN</p>
 
 <!-- Deployed LINk -->
-Link: https://ill-puce-bunny-cape.cyclic.app/api/products
+Link: https://ill-puce-bunny-cape.cyclic.app/
 
 
 <h2>CATEGORY</h2>
